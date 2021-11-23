@@ -15,8 +15,6 @@ impl StatusCode {
             Self::NotFound => "Not Found",
         }
     }
-
-    
 }
 
 impl Display for StatusCode {
